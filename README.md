@@ -2,7 +2,7 @@
 #### I AM A MERN STACK DEVELOPER
 ![I AM A MERN STACK DEVELOPER](https://imageupload.io/ib/cL0YLpO4I8bhq2N_1698206821.jpg)
 
-I Am Wpdev I Am Currently Learning Javascript . I Use MERN Stack to develope Websites I mainly Design and develop websites . Also I am a backend developer by using mongodb , firebase realtime database , Straip The Headless CMS . I have Done Many React Projects As you can see in my portfolio [https://portfolio.netlify.app/](https://codefusion-portfolio.netlify.app/)
+I Am Wpdev I Am Currently Learning Javascript . I Use MERN Stack to develope Websites I mainly Design and develop websites . Also I am a backend developer by using mongodb , firebase realtime database , Straip The Headless CMS . I have Done Many React Projects As you can see in my portfolio https://codefusion-portfolio.netlify.app/
 Projects: -
 1> https://cloudxgaming.netlify.app/
 2>(UPCOMING)
